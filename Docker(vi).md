@@ -24,7 +24,10 @@ Vậy lợi ích của Docker là gì?
 - Hoặc một ví dụ trong Ruby on rail, việc deploy app sẽ trở nên dễ dàng hơn. Không còn những câu lệnh để deploy mà thay vào đó chỉ cần upload image của app lên server rồi sau đó chạy image là xong. 
 - Ngoài ra còn có Docker Hub cho phép quản lý các image với những câu lệnh giống như Github như push, pull... để bạn có thể quản lý dễ dàng image của mình. Docker Hub có số lượng image cực kì đa dạng từ các OS như Ubuntu, CentOS... đến các phiên bản Ruby, các phiên bản Rails... để bạn có thể tùy chỉnh các phiên bản này.
 
-## II. Cài đặt
+<a name="caidatdocker"></a>
+## II. Cài đặt Docker
+<a name="dockerforlinux"></a>
 ###2.1. Docker for Linux
 
+<a name="dockerforwindows"></a>
 ###2.2. Docker for Windows

@@ -30,11 +30,11 @@ Vậy lợi ích của Docker là gì?
 - Ngoài ra còn có Docker Hub cho phép quản lý các image với những câu lệnh giống như Github như push, pull... để bạn có thể quản lý dễ dàng image của mình. Docker Hub có số lượng image cực kì đa dạng từ các OS như Ubuntu, CentOS... đến các phiên bản Ruby, các phiên bản Rails... để bạn có thể tùy chỉnh các phiên bản này.
 
 <a name="caidatdocker"></a>
-
 ## II. Cài đặt Docker
-<a name="dockerforlinux"></a>
 
+<a name="dockerforlinux"></a>
 ###2.1. Docker for Linux
+
 <a name="211centOS"></a>
 - **2.1.1. CentOS**
 <ul>
@@ -42,6 +42,7 @@ Vậy lợi ích của Docker là gì?
 Chỉ hỗ trợ các phiên bản centos7.x trở lên và các 
 <li>**Cài đặt:**</li>
 </ul>
+
 <a name="212ubuntu"></a>
 - **2.1.2. Ubuntu**
 <ul>
@@ -49,6 +50,7 @@ Chỉ hỗ trợ các phiên bản centos7.x trở lên và các
 Chỉ hỗ trợ các phiên bản centos7.x trở lên và các 
 <li>**Cài đặt:**</li>
 </ul>
+
 <a name="213debian"></a>
 - **2.1.3. Debian**
 <ul>
@@ -56,5 +58,6 @@ Chỉ hỗ trợ các phiên bản centos7.x trở lên và các
 Chỉ hỗ trợ các phiên bản centos7.x trở lên và các 
 <li>**Cài đặt:**</li>
 </ul>
+
 <a name="dockerforwindows"></a>
 ###2.2. Docker for Windows

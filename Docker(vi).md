@@ -39,8 +39,32 @@ Vậy lợi ích của Docker là gì?
 - **2.1.1. CentOS**
 <ul>
 <li>**Yêu cầu:**</li>
-Chỉ hỗ trợ các phiên bản centos7.x trở lên và các 
+Docker yêu cầu 64bit và Kernel version 3.10 trở lên đối với các phiên bản CentOS (nói cách khác là CentOS7.x trở lên) 
 <li>**Cài đặt:**</li>
+Kiểm tra kernel version
+
+    $ uname -r
+
+Trả về:
+
+    3.10.0-229.el7.x86_64
+
+Tiến hành cài đặt:
+
+- Cài đặt bằng yum:
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+
+- Cài đặt bằng yum:
+<ul>
+<li></li>
+<li></li>
+</ul>
+
+Gỡ cài đặt
 </ul>
 
 <a name="212ubuntu"></a>

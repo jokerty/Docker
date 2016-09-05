@@ -6,6 +6,11 @@
 [II. Cài đặt Docker](#caidatdocker)
 
 - [2.1. Docker for Linux](#dockerforlinux)
+<ul>
+<li>		[2.1.1. CentOS](#211centOS)</li>
+<li>		[2.1.2. Ubuntu](#212ubuntu)</li>
+<li>		[2.1.3. Debian](#213debian)</li>
+</ul>
 - [2.2. Docker for Windows](#dockerforwindows) 
 
 <a name="modau"></a>
@@ -28,6 +33,20 @@ Vậy lợi ích của Docker là gì?
 ## II. Cài đặt Docker
 <a name="dockerforlinux"></a>
 ###2.1. Docker for Linux
+<a name="211centOS"></a>
+####2.1.1. CentOS
+Yêu cầu:
 
+Cài đặt:
+<a name="212ubuntu"></a>
+####2.1.2. Ubuntu
+Yêu cầu:
+
+Cài đặt:
+<a name="213debian"></a>
+####2.1.3. Debian
+Yêu cầu:
+
+Cài đặt:
 <a name="dockerforwindows"></a>
 ###2.2. Docker for Windows

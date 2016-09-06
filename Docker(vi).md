@@ -123,10 +123,10 @@
 **Docker yêu cầu 64bit và Kernel version 3.10 trở lên đối với các phiên bản CentOS**
 **Docker is supported on these Ubuntu operating systems:
 
-- Ubuntu Xenial 16.04 (LTS)
-- Ubuntu Wily 15.10
-- Ubuntu Trusty 14.04 (LTS)
-- Ubuntu Precise 12.04 (LTS)
+    - Ubuntu Xenial 16.04 (LTS)
+    - Ubuntu Wily 15.10
+    - Ubuntu Trusty 14.04 (LTS)
+    - Ubuntu Precise 12.04 (LTS)
 
 This page instructs you to install using Docker-managed release packages and installation mechanisms. Using these packages ensures you get the latest release of Docker. If you wish to install using Ubuntu-managed packages, consult your Ubuntu documentation.**
     

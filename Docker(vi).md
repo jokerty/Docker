@@ -60,7 +60,7 @@
 
     1. Truy cập vào máy của bạn với quyền root và tiến hành update
     
-        $ sudo yum update
+        `$ sudo yum update`
     2. Tạo 1 yum repo.
     
         ```sh
@@ -76,12 +76,13 @@
 
     3. Cài đặt Docker package.
     
-        $ sudo yum install docker-engine
+        `$ sudo yum install docker-engine`
     4. Chạy Docker daemon.
 
-        $ sudo service docker start
+        `$ sudo service docker start`
     5. Kiểm tra Docker đã được cài đặt và chạy thử demo.
 
+        ```sh
         $ sudo docker run hello-world
         Unable to find image 'hello-world:latest' locally
         latest: Pulling from hello-world
@@ -91,6 +92,7 @@
         Digest: sha256:aa03e5d0d5553b4c3473e89c8619cf79df368babd1.7.1cf5daeb82aab55838d
         Status: Downloaded newer image for hello-world:latest
         Hello from Docker.
+        ```
     
     Nếu hiển thị ra kết quả như trên thì Docker đã được cài đặt thành công và đang hoạt động.
 
@@ -98,18 +100,19 @@
     
     1. Truy cập vào máy của bạn với quyền root và tiến hành update
     
-        $ sudo yum update
+        `$ sudo yum update`
     2. Chạy cài đặt Docker bằng script.
 
-        $ curl -fsSL https://get.docker.com/ | sh
+        `$ curl -fsSL https://get.docker.com/ | sh`
     
     Câu lệnh script sẽ thêm file `docker.repo` và cài đặt Docker.
+    
     3. Chạy Docker daemon.
 
-        $ sudo service docker start
+        `$ sudo service docker start`
     4. Kiểm tra Docker đã được cài đặt và chạy thử demo.
 
-        $ sudo docker run hello-world
+        `$ sudo docker run hello-world`
 </ul>
 
 

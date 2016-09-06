@@ -60,8 +60,10 @@
 
     Log into your machine as a user with sudo or root privileges.
     Make sure your existing yum packages are up-to-date.
+    
         $ sudo yum update
     Add the yum repo.
+    
         $ sudo tee /etc/yum.repos.d/docker.repo <<-'EOF'
 
     ```sh
@@ -104,6 +106,7 @@ Unable to find image 'hello-world:latest' locally
 
     For more examples and ideas, visit:
      http://docs.docker.com/userguide/
+     
     Cài đặt bằng curl:
     
 </ul>

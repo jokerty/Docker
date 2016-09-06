@@ -104,7 +104,6 @@
     2. Chạy cài đặt Docker bằng script.
 
         `$ curl -fsSL https://get.docker.com/ | sh`
-    
     Câu lệnh script sẽ thêm file `docker.repo` và cài đặt Docker.
     
     3. Chạy Docker daemon.

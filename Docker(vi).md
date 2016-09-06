@@ -45,7 +45,6 @@
 <ul>
     <li>**Yêu cầu:**</li>
     Docker yêu cầu 64bit và Kernel version 3.10 trở lên đối với các phiên bản CentOS (nói cách khác là CentOS7.x trở lên) 
-    <li>**Cài đặt:**</li>
     Kiểm tra kernel version
 
         $ uname -r
@@ -53,9 +52,14 @@
     Trả về:
 
         3.10.0-229.el7.x86_64
-
-    Tiến hành cài đặt:
-
+    
+    <li>**Cài đặt:**</li>
+    
+    Cài đặt bằng yum:
+    
+    Cài đặt bằng curl:
+    
+   
 </ul>
 
 

@@ -121,14 +121,13 @@
 <ul>
 <li>**Yêu cầu:**</li>
 **Docker yêu cầu 64bit và Kernel version 3.10 trở lên**
+
 **Docker hỗ trợ các phiên bản Ubuntu sau:
 
     - Ubuntu Xenial 16.04 (LTS)
     - Ubuntu Wily 15.10
     - Ubuntu Trusty 14.04 (LTS)
     - Ubuntu Precise 12.04 (LTS)
-
-This page instructs you to install using Docker-managed release packages and installation mechanisms. Using these packages ensures you get the latest release of Docker. If you wish to install using Ubuntu-managed packages, consult your Ubuntu documentation.**
     
     Kiểm tra kernel version
     

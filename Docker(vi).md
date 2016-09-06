@@ -45,7 +45,7 @@
 <ul>
     <li>**Yêu cầu:**</li>
 
-    Docker yêu cầu 64bit và Kernel version 3.10 trở lên đối với các phiên bản CentOS (nói cách khác là CentOS7.x trở lên) 
+    **Docker yêu cầu 64bit và Kernel version 3.10 trở lên đối với các phiên bản CentOS (nói cách khác là CentOS7.x trở lên)** 
     Kiểm tra kernel version
     
         $ uname -r

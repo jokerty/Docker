@@ -115,6 +115,13 @@
         `$ sudo docker run hello-world`
 </ul>
 
+<a name="212Ubuntu"></a>
+- **2.1.1. Ubuntu**
+<ul>
+<li>**Yêu cầu:**</li>
 
+<li>**Cài đặt:**</li>
+
+</ul>
 <a name="dockerforwindows"></a>
 ###2.2. Docker for Windows

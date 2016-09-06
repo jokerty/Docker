@@ -120,8 +120,9 @@
 - **2.1.2. Ubuntu**
 <ul>
 <li>**Yêu cầu:**</li>
-**Docker yêu cầu 64bit và Kernel version 3.10 trở lên
-Docker hỗ trợ các phiên bản Ubuntu sau:**
+**Docker yêu cầu 64bit và Kernel version 3.10 trở lên**
+
+**Docker hỗ trợ các phiên bản Ubuntu sau:**
 
     - Ubuntu Xenial 16.04 (LTS)
     - Ubuntu Wily 15.10

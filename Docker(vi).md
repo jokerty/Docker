@@ -115,8 +115,8 @@
         `$ sudo docker run hello-world`
 </ul>
 
-<a name="212Ubuntu"></a>
-- **2.1.1. Ubuntu**
+<a name="212ubuntu"></a>
+- **2.1.2. Ubuntu**
 <ul>
 <li>**Yêu cầu:**</li>
 

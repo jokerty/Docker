@@ -8,8 +8,7 @@
 - [2.1. Docker for Linux](#dockerforlinux)
 <ul>
 <li>		[2.1.1. CentOS](#211centOS)</li>
-<li>		[2.1.2. Ubuntu](#212ubuntu)</li>
-<li>		[2.1.3. Debian](#213debian)</li>
+<li>		[2.1.2. Debian](#213debian)</li>
 </ul>
 - [2.2. Docker for Windows](#dockerforwindows) 
 
@@ -36,9 +35,7 @@
 ###2.1. Docker for Linux
 [2.1.1. CentOS](#211centOS)
 
-[2.1.2. Ubuntu](#212ubuntu)
-
-[2.1.3. Debian](#213debian)
+[2.1.2. Debian](#212debian)
 
 <a name="211centOS"></a>
 - **2.1.1. CentOS**
@@ -116,25 +113,24 @@
         `$ sudo docker run hello-world`
 </ul>
 
-<a name="212ubuntu"></a>
-- **2.1.2. Ubuntu**
+<a name="212debian"></a>
+- **2.1.2. Debian**
 <ul>
 <li>**Yêu cầu:**</li>
 **Docker yêu cầu 64bit và Kernel version 3.10 trở lên**
 
 **Docker hỗ trợ các phiên bản Ubuntu sau:**
 
-    - Ubuntu Xenial 16.04 (LTS)
-    - Ubuntu Wily 15.10
-    - Ubuntu Trusty 14.04 (LTS)
-    - Ubuntu Precise 12.04 (LTS)
+    - Debian testing stretch (64-bit)
+    - Debian 8.0 Jessie (64-bit)
+    - Debian 7.7 Wheezy (64-bit) (backports required)
     
     Kiểm tra kernel version
     
         $ uname -r
     Trả về:
     
-        3.10.0-229.el7.x86_64
+        4.8.0-kali1-amd64
     
 <li>**Cài đặt:**</li>
 

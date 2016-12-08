@@ -125,12 +125,16 @@
     - Debian 8.0 Jessie (64-bit)
     - Debian 7.7 Wheezy (64-bit) (backports required)
     
-    Kiểm tra kernel version
+Kiểm tra kernel version
     
         $ uname -r
-    Trả về:
+Trả về:
     
         4.8.0-kali1-amd64
+
+<li>**Trước khi cài đặt**</li>
+
+
     
 <li>**Cài đặt:**</li>
 

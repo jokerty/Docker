@@ -1,0 +1,23 @@
+{
+  "name": "dockernodejs",
+  "version": "1.0.0",
+  "description": "Newbie Docker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokertykma/Docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jokertykma/Docker/issues"
+  },
+  "homepage": "https://github.com/jokertykma/Docker#readme",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
